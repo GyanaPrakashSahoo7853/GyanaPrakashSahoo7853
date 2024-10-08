@@ -33,11 +33,13 @@
 ###
 <h2 align="center"> Connect With Me 👨‍💻 </h2>
 <div align="center">
+ <a href="https://discord.com/channels/@me" target="_blank">
   <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
+ </a>
   <a href="mailto:gyanaprakash7853@gmail.com" target="_blank">
   <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/gyanaprakashbbsr" target="_blank">
+  <a href="www.linkedin.com/in/gyanaprakashbbsr" target="blank">
   <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
 </div>
