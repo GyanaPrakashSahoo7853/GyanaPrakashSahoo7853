@@ -2,7 +2,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=510&height=80&duration=3800&lines=Hi+There!+👋;+I'm+Gyana+Prakash+Sahoo;"/>
 </h1>
-<h3 align="center">A passionate Software Developer from INDIA</h3>
+<h3 align="center">A passionate Software Developer from INDIA </h3>
 <br>
 <div>
 <img align="right" alt="Coding"  height="270px" width="440px" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
@@ -54,6 +54,17 @@
 </div>
 
 ###
+<h2 align="center"> GSSOC'(24) Badges 🪶 </h2>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'> <a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="150px" height="150px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="150px" height="150px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="150px" height="150px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="150px" height="150px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="150px" height="150px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="150px" height="150px" /> 
+</a>
+</div>
+
 <br>
 <div align="center">
  <h2>✍️Random Dev Quotes✍️</h2>
