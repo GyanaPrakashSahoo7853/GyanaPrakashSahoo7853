@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,stackoverflow,html,css,vscode,github,figma,tailwind,git,r,jquery,threejs,ae,github" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,stackoverflow,html,css,vscode,github,figma,tailwind,git,r,jquery,threejs,ae" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,idea,mongodb,c,java,nextjs,mysql,eclipse" /><br>
 </div>
 
