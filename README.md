@@ -49,9 +49,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=GyanaPrakashSahoo7853&theme=chartreuse-dark&show_icons=true" height="160px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanaPrakashSahoo7853&theme=chartreuse-dark&hide_border=false_border=false" height="160px" alt="languages graph"  />
   <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanaPrakashSahoo7853&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut-vertical"/>
-</div>
+ </div>
+ 
+ <table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyanaPrakashSahoo7853&theme=highcontrast" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
 ###
 <h2 align="center"> GSSOC'(24) Badges 🪶 </h2>
