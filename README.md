@@ -5,23 +5,24 @@
 <h3 align="center">A passionate Software Developer from INDIA </h3>
 <br>
 <div>
-<img align="right" alt="Coding"  height="270px" width="440px" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
+<img align="right" alt="Coding"  height="250px" width="418px" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
 </div>
 
-🔭 I’m currently working on **as Contributor**
+🔭 **Currently Working On:** [Web Development Projects]
  
- 🌱 I’m currently learning **Java, Javascript, Mern**
+🌱 I’m currently learning **Java, Javascript, Mern**
 
-💬 Ask me about **Node.js, React, DSA... or anything**
+📫 Reach Me At: [gyanaprakash7853@gmail.com](mailto:gyanaprakash7853@gmail.com)
+  
+💬 Ask me about: **Node.js, React, DSA, Web Development, Git Bash** or anything
 
-⚡Fact: **No one was born perfect and educated, we all learn from MISTAKES**
+⚡ About Me: **A Tsundere with a touch of intelligence and patience.**
 
 ###
 <br><br>
 <br>
 <br>
 <br>
-
 
 <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
 <br>
