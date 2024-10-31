@@ -88,6 +88,6 @@
  <h2>✍️Random Dev Quotes✍️</h2>
   <br>
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark"/>
- <img align="right" height="170px" width="240px" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNzQwMDksIm5iZiI6MTczMDM3MzcwOSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDExMjE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmOTk1YWNjOWZmMDNlYmJiMjgyMjE1ZGZkNTI0ZTJiNTQwYjE1ODU5YjkyMTViNDdiNTNlYzFmMjBkZjMyOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lBdDqim1t71X6tt9IQoWgzgBZFMu5RFhMKQxSrvCK0k"
+ <img align="right" height="170px" width="200px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
 </div>
 <br clear="both">
