@@ -52,11 +52,11 @@
   <br>
  </div>
  
- <table width="100%" align="center">
+ <table width="80%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyanaPrakashSahoo7853&theme=highcontrast" alt="Profile Summary">
-</td>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanaPrakashSahoo7853&theme=chartreuse-dark&point=#7fff00&area=true&hide_border=true" style="margin: 7px;" />
+ </td>
 </tr>
 </table>
 
