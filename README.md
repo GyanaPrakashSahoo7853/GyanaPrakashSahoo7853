@@ -2,7 +2,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=510&height=80&duration=3800&lines=Hi+There!+👋;+I'm+Gyana+Prakash+Sahoo;"/>
 </h1>
-<h3 align="center">A passionate Software Developer from INDIA </h3>
+<h3 align="center"> A Passionate Web Developer and Coding Enthusias From INDIA </h3>
 <br>
 <div>
 <img align="right" alt="Coding"  height="250px" width="410px" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
