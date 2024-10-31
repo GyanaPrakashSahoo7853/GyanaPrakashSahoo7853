@@ -1,11 +1,11 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNzM1NjMsIm5iZiI6MTczMDM3MzI2MywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDExMTQyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3Y2U3YjI3ZjFhMzQ2OTJjNDQ3MGI4MGRiNDA3NjJkMGU3ZjIxNzA4OGQwODc4YTEwYTQ4NWJkMzg5ZTNhNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kVzXSpZi86Xa9JMTcCvG2cSV5Ya4vieeE1QpfyayCLc" height="480px" width="1000px"/>
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=510&height=80&duration=3800&lines=Hi+There!+👋;+I'm+Gyana+Prakash+Sahoo;"/>
 </h1>
 <h3 align="center"> A Passionate Web Developer and Coding Enthusias From INDIA </h3>
 <br>
 <div>
-<img align="right" alt="Coding"  height="250px" width="410px" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNzQwMDksIm5iZiI6MTczMDM3MzcwOSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDExMjE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlY2IxNGM4Mjg0NGY2MWUzNzAwYjZkMTY2NTlkMDk5MjUxN2Q1YzcyZDc3NzU0ZDYxMTlhODU2ODllZWNjZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iZAEtsmgvY1LKjB8B9CvEwYIzN4BY2deIWyrGgAb10I"/>
+<img align="right" alt="Coding"  height="250px" width="410px" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
 </div>
 
 🔭 **Currently Working On:** [Web Development Projects]
