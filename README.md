@@ -77,10 +77,11 @@
 ###
 <h2 align="center"> HACKTOBERFEST'(24) 👨‍💻 </h2>
 <div style="display:flex; align-items:center; gap:20px;" align='center'> <a href="https://hacktoberfest.com/profile/">
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-terminal-0-0-0-0.webp" width="140px" height="140px"/>
 <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-tea-0-0-0.webp" width="140px" height="140px"/>
 <img src="https://assets.holopin.io/hf2024levels/level2-sloth-terminal-tea-hoodie-0-0.webp" width="140px" height="140px"/>
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="170px" height="170px"/>
 <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-shirt-witch-0.webp" width="140px" height="140px"/>
+<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-shirt-witch-eclipse.webp" width="140px" height="140px"/>
 </a></div>
 
 <br>
