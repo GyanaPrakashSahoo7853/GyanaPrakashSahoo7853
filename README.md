@@ -21,9 +21,6 @@
 ###
 <br><br>
 <br>
-<br>
-<br>
-
 <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
 <br>
 <div align="center">
