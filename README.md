@@ -31,15 +31,15 @@
 ###
 <h2 align="center">🌟 GITHUB Stat's 🌟</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GyanaPrakashSahoo7853&theme=chartreuse-dark&show_icons=true" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanaPrakashSahoo7853&theme=chartreuse-dark&hide_border=false_border=false" height="160px" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=GyanaPrakashSahoo7853&theme=chartreuse-dark&show_icons=true" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanaPrakashSahoo7853&layout=compact&theme=chartreuse-dark&hide_border=false_border=false" height="148px" alt="languages graph"  />
   <br>
  </div>
  
  <table width="80%" align="center">
 <tr>
 <td>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanaPrakashSahoo7853&theme=chartreuse-dark&point=#7fff00&area=true&hide_border=true" style="margin: 7px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanaPrakashSahoo7853&theme=github-compact&point=#7fff00&area=true&hide_border=true" style="margin: 7px;" />
  </td>
 </tr>
 </table>
