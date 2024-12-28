@@ -68,6 +68,12 @@
 <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-shirt-witch-eclipse.webp" width="140px" height="140px"/>
 </a></div>
 
+###
+<h2 align="center"> DEVDISPLAY'(25) 🌎 </h2>
+<div style="display:flex; align-items:center; gap:20px;" align='center'> 
+<img src="https://github.com/GyanaPrakashSahoo7853/GyanaPrakashSahoo7853/blob/29f9ee2153fd3784d042431846686b147388e6d3/DevPioneer.png" width="150px" height="150px"/>
+</div>
+
 <br>
 <div align="center">
  <h2>✍️Random Dev Quotes✍️</h2>
