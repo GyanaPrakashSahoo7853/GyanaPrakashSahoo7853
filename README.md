@@ -1,4 +1,4 @@
-<img src="https://github.com/GyanaPrakashSahoo7853/GyanaPrakashSahoo7853/blob/8201345dfa0c1d60fbda7321ba2c50dc0e432b58/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="1000px" height="540px"/>
+<img src="https://github.com/GyanaPrakashSahoo7853/GyanaPrakashSahoo7853/blob/8201345dfa0c1d60fbda7321ba2c50dc0e432b58/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="1200px" height="540px"/>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=510&height=80&duration=3800&lines=Hi+There!+👋;+I'm+Gyana+Prakash+Sahoo;"/>
 </h1>
