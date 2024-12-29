@@ -1,11 +1,11 @@
-<img src="https://github.com/GyanaPrakashSahoo7853/GyanaPrakashSahoo7853/blob/8201345dfa0c1d60fbda7321ba2c50dc0e432b58/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="1200px" height="480px"/>
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=510&height=80&duration=3800&lines=Hi+There!+👋;+I'm+Gyana+Prakash+Sahoo;"/>
 </h1>
 <h3 align="center"> A Passionate Web Developer and Coding Enthusias From INDIA </h3>
 <br>
 <div>
-<img align="right" alt="Coding"  height="250px" width="410px" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
+<img align="right" alt="Coding"  height="270px" width="310px" src="https://private-user-images.githubusercontent.com/74038190/371756394-f33c5d19-64ae-41c5-be85-8d86b37a5a0d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0OTg1NzUsIm5iZiI6MTczNTQ5ODI3NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzOTQtZjMzYzVkMTktNjRhZS00MWM1LWJlODUtOGQ4NmIzN2E1YTBkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI5VDE4NTExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmM2M5ZWExMGY1MWMyYjE2MzNjNGY4ZDk3ZGVlYzJmMjM4NDJiNTYwNmU5NGZhYjY5NzI3M2EzODI0YjQzN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XlSTMJ5mUgCRznR0CaRwZmIrP6J2ommjnrwy25IuQRQ"/>
 </div>
 
 🔭 **Currently Working On:** [Web Development Projects]
