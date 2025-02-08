@@ -4,9 +4,7 @@
 </h1>
 <h3 align="center"> A Passionate Web Developer and Coding Enthusias From INDIA </h3>
 <br>
-<div>
-<img align="right" alt="Coding"  height="270px" width="310px" src="https://private-user-images.githubusercontent.com/74038190/371756394-f33c5d19-64ae-41c5-be85-8d86b37a5a0d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0OTg1NzUsIm5iZiI6MTczNTQ5ODI3NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzOTQtZjMzYzVkMTktNjRhZS00MWM1LWJlODUtOGQ4NmIzN2E1YTBkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI5VDE4NTExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmM2M5ZWExMGY1MWMyYjE2MzNjNGY4ZDk3ZGVlYzJmMjM4NDJiNTYwNmU5NGZhYjY5NzI3M2EzODI0YjQzN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XlSTMJ5mUgCRznR0CaRwZmIrP6J2ommjnrwy25IuQRQ"/>
-</div>
+
 
 🔭 **Currently Working On:** [Web Development Projects]
  
