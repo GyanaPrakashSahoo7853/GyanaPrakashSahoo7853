@@ -1,46 +1,58 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=510&height=80&duration=3800&lines=Hi+There!+👋;+I'm+Gyana+Prakash+Sahoo;"/>
-</h1>
-<h3 align="center"> A Passionate Web Developer and Coding Enthusias From INDIA </h3>
-<br>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=510&height=80&duration=3800&lines=Hi+There!+👋;+I'm+Gyana+Prakash+Sahoo;"/></h1>
+<h3 align="center"> Full-Stack Developer | Passionate About Exploring New Technologies </h3>
+<hr/>
 
+  ### About Me
+⚡ **A Second Year tech-enthusiast chasing a Bachelor's in Computer Science and Engineering.**
 
-🔭 **Currently Working On:** [Web Development Projects]
+🔭 **Currently Working On: Hackathon Projects**
  
-🌱 I’m currently learning **Java, Javascript, Mern**
+🌱 **Currently learning: Java & MERN**
 
 📫 Reach Me At: [gyanaprakash7853@gmail.com](mailto:gyanaprakash7853@gmail.com)
-  
-💬 Ask me about: **Node.js, React, DSA, Web Development, Git Bash** or anything
-
-⚡ About Me: **A Tsundere with a touch of intelligence and patience.**
 
 ###
-<br><br>
+<hr/>
 <br>
 <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
-<br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,stackoverflow,html,css,vscode,github,figma,tailwind,git,r,jquery,threejs,ae" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,bash,javascript,typescript,express,idea,mongodb,c,java,nextjs,mysql,eclipse" /><br>
+ 
+### Languages 🛠
+[![My Programming Languages](https://skillicons.dev/icons?i=c,java,js,python,html,css,bash)](https://skillicons.dev)
+
+### Development Frameworks and Libraries 🛠 
+[![My Development Frameworks](https://skillicons.dev/icons?i=nextjs,nodejs,react,spring,graphql,bootstrap,tailwind,jquery)](https://skillicons.dev)
+
+### Databases and Cloud Platforms 🛠 
+[![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,appwrite)](https://skillicons.dev)
+
+### IDEs 🛠 
+[![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,replit,dev-css)](https://skillicons.dev)
+
+### Other Development Tools 🛠 
+[![My Other Development Tools](https://skillicons.dev/icons?i=figma,git,github,postman,ubuntu,linux,netlify,vercel)](https://skillicons.dev)
+<hr/>
 </div>
+<br>
 
 ###
 <h2 align="center">🌟 GITHUB Stat's 🌟</h2>
+<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GyanaPrakashSahoo7853&theme=chartreuse-dark&show_icons=true" height="150px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanaPrakashSahoo7853&layout=compact&theme=chartreuse-dark&hide_border=false_border=false" height="148px" alt="languages graph"  />
   <br>
  </div>
  
- <table width="80%" align="center">
+<table width="80%" align="center">
 <tr>
 <td>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanaPrakashSahoo7853&theme=github-compact&point=#7fff00&area=true&hide_border=true" style="margin: 7px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanaPrakashSahoo7853&theme=github-compact&point=#7fff00&area=true" style="margin: 7px;" />
  </td>
 </tr>
 </table>
+<hr/>
 
 ###
 <h2 align="center"> GSSOC'(24) Badges 🪶 </h2>
@@ -55,6 +67,7 @@
 </a>
 </div>
 </div>
+<hr/>
 
 ###
 <h2 align="center"> HACKTOBERFEST'(24) 👨‍💻 </h2>
@@ -65,6 +78,7 @@
 <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-shirt-witch-0.webp" width="140px" height="140px"/>
 <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-shirt-witch-eclipse.webp" width="140px" height="140px"/>
 </a></div>
+<hr/>
 
 ###
 <h2 align="center"> DEVDISPLAY'(25) 🌎 </h2>
@@ -72,11 +86,3 @@
 <img src="https://github.com/GyanaPrakashSahoo7853/GyanaPrakashSahoo7853/blob/29f9ee2153fd3784d042431846686b147388e6d3/DevPioneer.png" width="150px" height="150px"/>
 </div>
 
-<br>
-<div align="center">
- <h2>✍️Random Dev Quotes✍️</h2>
-  <br>
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark"/>
- <img align="right" height="170px" width="200px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
-</div>
-<br clear="both">
