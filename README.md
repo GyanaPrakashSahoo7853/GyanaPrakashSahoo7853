@@ -3,13 +3,12 @@
 <h3 align="center"> Full-Stack Developer | Passionate About Exploring New Technologies </h3>
 <hr/>
 
-  ### About Me
-⚡ **A Second Year tech-enthusiast chasing a Bachelor's in Computer Science and Engineering.**
-
-🔭 **Currently Working On: Hackathon Projects**
- 
-🌱 **Currently learning: Java & MERN**
-
+### 🚀 About Me 
+• **⚡I am a passionate software developer with a keen interest in building innovative solutions. I love exploring new technologies and continuously improving my skills.** <br><br>
+• **💻 I specialize in full-stack development.** <br><br>
+• **🔭 I'm currently working on a Hackathon Projects**<br><br>
+• **🌱 I’m currently learning more about Java and MERN stack.**<br><br>
+• **👯 I’m looking to collaborate on open source projects.**<br><br>
 📫 Reach Me At: [gyanaprakash7853@gmail.com](mailto:gyanaprakash7853@gmail.com)
 
 ###
