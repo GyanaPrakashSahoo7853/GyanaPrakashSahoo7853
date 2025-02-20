@@ -4,7 +4,7 @@
 <hr/>
 
 ### 🚀 About Me 
-• **⚡I am a passionate software developer with a keen interest in building innovative solutions. I love exploring new technologies and continuously improving my skills.** <br><br>
+• **⚡ A passionate software developer with a keen interest in building innovative solutions. I love exploring new technologies and continuously improving my skills.** <br><br>
 • **💻 I specialize in full-stack development.** <br><br>
 • **🔭 I'm currently working on a Hackathon Projects**<br><br>
 • **🌱 I’m currently learning more about Java and MERN stack.**<br><br>
