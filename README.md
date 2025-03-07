@@ -5,10 +5,10 @@
 
 ### 🚀 About Me 
 • **⚡ A passionate software developer with a keen interest in building innovative solutions. I love exploring new technologies and continuously improving my skills.** <br><br>
-• **💻 I specialize in full-stack development.** <br><br>
+• **💻 I specialize in Frontend development.** <br><br>
 • **🔭 I'm currently working on a Hackathon Projects**<br><br>
-• **🌱 I’m currently learning more about Java and MERN stack.**<br><br>
-• **👯 I’m looking to collaborate on open source projects.**<br><br>
+• **🌱 I’m currently learning more about Java and MERN stack.** <br><br>
+• **👯 I’m looking to collaborate on open source projects.** <br><br>
 📫 Reach Me At: [gyanaprakash7853@gmail.com](mailto:gyanaprakash7853@gmail.com)
 
 ###
