@@ -3,13 +3,26 @@
 <h3 align="center"> Upcoming Developer.. | Passionate About Exploring New Technologies </h3>
 <hr/>
 
-### 🚀 About Me 
-• **⚡ A passionate software developer with a keen interest in building innovative solutions. I love exploring new technologies and continuously improving my skills.** <br><br>
+<div align="center">
+ 
+ ### 🚀 About Me 
 • **💻 I specialize in Frontend development.** <br><br>
 • **🔭 I'm currently working on a Hackathon Projects**<br><br>
 • **🌱 I’m currently learning more about Java and MERN stack.** <br><br>
 • **👯 I’m looking to collaborate on open source projects.** <br><br>
-📫 Reach Me At: [gyanaprakash7853@gmail.com](mailto:gyanaprakash7853@gmail.com)
+
+<div align="center"> 
+  <a href="mailto:gyanaprakash7853@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/gyanaprakashbbsr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+</div>
 
 ###
 <hr/>
