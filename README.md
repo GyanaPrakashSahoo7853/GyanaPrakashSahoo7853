@@ -40,10 +40,10 @@
 [![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,appwrite)](https://skillicons.dev)-->
 
 ### IDEs 🛠 
-[![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,replit,dev-css)](https://skillicons.dev)
+[![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,replit,neovim)](https://skillicons.dev)
 
 ### Other Development Tools 🛠 
-[![My Other Development Tools](https://skillicons.dev/icons?i=git,github,postman,ubuntu,linux,netlify,vercel)](https://skillicons.dev)
+[![My Other Development Tools](https://skillicons.dev/icons?i=git,github,postman,ubuntu,linux,netlify,vercel,npm)](https://skillicons.dev)
 <hr/>
 </div>
 <br>
