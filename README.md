@@ -7,8 +7,8 @@
  
  ### 🚀 About Me 
 • **💻 I specialize in Frontend development.** <br><br>
-• **🔭 I'm currently working on a Hackathon Projects**<br><br>
-• **🌱 I’m currently learning more about Java and MERN stack.** <br><br>
+• **🔭 I'm currently working on AI**<br><br>
+• **🌱 I’m currently learning MERN stack.** <br><br>
 • **👯 I’m looking to collaborate on open source projects.** <br><br>
 
 <div align="center"> 
@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/gyanaprakashbbsr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://gyanaprakash404.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -34,16 +34,16 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=c,java,js,python,html,css,bash)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries 🛠 
-[![My Development Frameworks](https://skillicons.dev/icons?i=nextjs,nodejs,react,spring,graphql,bootstrap,tailwind,jquery)](https://skillicons.dev)
+[![My Development Frameworks](https://skillicons.dev/icons?i=nextjs,nodejs,react,spring,bootstrap,tailwind,tensorflow,opencv)](https://skillicons.dev)
 
-### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,appwrite)](https://skillicons.dev)
+<!--### Databases and Cloud Platforms 🛠 
+[![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,appwrite)](https://skillicons.dev)-->
 
 ### IDEs 🛠 
 [![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,replit,dev-css)](https://skillicons.dev)
 
 ### Other Development Tools 🛠 
-[![My Other Development Tools](https://skillicons.dev/icons?i=figma,git,github,postman,ubuntu,linux,netlify,vercel)](https://skillicons.dev)
+[![My Other Development Tools](https://skillicons.dev/icons?i=git,github,postman,ubuntu,linux,netlify,vercel)](https://skillicons.dev)
 <hr/>
 </div>
 <br>
